@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Django==4.2.11
+=======
+Django>4.0
+>>>>>>> d18303e9a8fb9f79f12ecf204f8b15cb3f6fed7b
